@@ -30,7 +30,7 @@ padding: 15px 20px;
 }
 /* this is main section */
 .banner{
-    background-image: url(/assets/Hero-bg.png);
+    background-image: url(assets/Hero-bg.png);
     text-align: center;
     padding: 35px 0;
     
@@ -112,13 +112,58 @@ padding: 15px 20px;
     padding: 15px 25px;
     border-radius: 5px;
 }
-.help-people{
-    
-}
 
-.help-people-colunm{
+.inspiration{
+    margin: 80px 100px;
+}
+.video-container iframe{
+    justify-content: center;
+    width: 1400px;
+    height: 600px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+   
+}
+/* this is current target section */
+.current-target{
+    margin: 80px 100px;
+}
+.current-target-column{
     display: flex;
     justify-content: space-between;
-
+    
+}
+.skill{
+    padding: 40px;
 }
 
+.skill-img{
+    margin-bottom: 25px;
+}
+.skill-heading{
+    color: #0D1321;
+    font-size: 24px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+.skill-desc{
+    color: #0D1321;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 25px;
+}
+.skill-btn {
+    color: #0D1321;
+    font-size: 18px;
+    font-weight: 700;
+    border: 0 0 2px 0;
+}
+.background-css{
+    border-radius: 16px;
+background: rgba(0, 76, 232, 0.07);
+}
+.background-js, .background-html{
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.07);
+}
