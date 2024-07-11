@@ -112,6 +112,13 @@ padding: 15px 20px;
     padding: 15px 25px;
     border-radius: 5px;
 }
+.help-people{
+    
+}
 
+.help-people-colunm{
+    display: flex;
+    justify-content: space-between;
 
+}
 
