@@ -47,7 +47,7 @@ padding: 15px 20px;
 }
 .banner-description p{
     color: #0D1321;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 400;
     margin-bottom: 32px;
     }
@@ -61,4 +61,57 @@ padding: 15px 20px;
     padding: 20px 25px;
     border-radius: 5px;
 }
+
+/* this is why web development section */
+.why-web-development{
+    margin: 80px 100px;
+    padding: 80px 100px;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.05);
+
+}
+
+.section-title{
+    color: #0D1321;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 800;
+    margin-bottom: 25px;
+
+}
+.section-description{
+    color: #0D1321;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 45px;
+}
+
+.why-web-column{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
+.why-web-column-des-heading{
+    color: rgba(13, 19, 33, 0.70);
+    font-size: 24px;
+    font-weight: 700;
+}
+.why-web-column-des-desc{
+    color: #0D1321;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 18px 0 35px 0;
+}
+
+.why-web-column-des-btn{
+    color: #0D1321;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 15px 25px;
+    border-radius: 5px;
+}
+
+
 
