@@ -30,7 +30,7 @@ padding: 15px 20px;
 }
 /* this is main section */
 .banner{
-    background-image: url("");
+    background-image: url(../assets/Hero-bg.png);
     text-align: center;
     padding: 35px 0;
     
