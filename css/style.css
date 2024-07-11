@@ -167,3 +167,15 @@ background: rgba(0, 76, 232, 0.07);
     border-radius: 16px;
     background: rgba(255, 223, 0, 0.07);
 }
+.next-target{
+    margin: 80px 100px;
+}
+.next-target-column{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    padding: 40px;
+    border: 2px solid;
+    margin-bottom: 25px;
+    border-radius: 10px;
+}
